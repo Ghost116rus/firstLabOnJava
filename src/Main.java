@@ -22,8 +22,9 @@ public class Main {
                 }
             }
         }
-        System.out.println(sum1);//вывод "нечётного" списка
-        System.out.println(sum2);//вывод "чётного" списка
+        // System.out.println(sum1);//вывод "нечётного" списка
+        // System.out.println(sum2);//вывод "чётного" списка
+        System.out.println(sum1 + sum2);
 
     }
 }
